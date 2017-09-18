@@ -27,7 +27,7 @@ import (
 	// Import our collector plugin implementation
 	"github.com/intelsdi-x/snap/plugin/collector/snap-plugin-collector-anothermock1/anothermock"
 )
-
+//Just for test
 func main() {
 	// Provided:
 	//   the definition of the plugin metadata
